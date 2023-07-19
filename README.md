@@ -1,4 +1,4 @@
-- Self-taught programmer.
+- Self-taught programmer
 - Desktop and Small Server GUI applications, and Windows Services (.NET & .NET Framework)
 - Console applications (.NET & Python)
 
