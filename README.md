@@ -1,4 +1,4 @@
-- Python was my gateway into the programming world; I ended up taking an interest in Desktop applications, opening the door to DotNET.
+- Self-taught programmer.
 - Desktop and Small Server GUI applications, and Windows Services (.NET & .NET Framework)
 - Console applications (.NET & Python)
 
