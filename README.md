@@ -1,5 +1,5 @@
 - Self-taught programmer
-- Desktop and Small Server GUI applications, and Windows Services (.net & .net Framework)
+- Desktop and Small Server GUI applications, and Windows Services (.net)
 - Console applications (.net & Python)
 
 <!---
