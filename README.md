@@ -1,4 +1,3 @@
-- Self-taught
 - Desktop and Small Server GUI applications, and Windows Services (.NET)
 - Console applications (.NET & Python)
 
