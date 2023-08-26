@@ -1,4 +1,5 @@
-- Desktop and Small Server GUI applications, and Windows Services (.NET)
+- Desktop and Small Server GUI applications (.NET)
+- Windows Services (.NET Framework)
 - Console applications (.NET & Python)
 
 <!---
