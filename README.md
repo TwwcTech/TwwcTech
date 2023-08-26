@@ -1,6 +1,6 @@
-- Desktop and Small Server GUI applications (.NET)
-- Windows Services (.NET Framework)
-- Console applications (.NET & Python)
+- Desktop and Small Server GUI applications (C#)
+- Windows Services (C# .NET Framework)
+- Console applications (C# & Python)
 
 <!---
 TwwcTech/TwwcTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
