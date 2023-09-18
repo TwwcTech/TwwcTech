@@ -1,5 +1,8 @@
-- Desktop and Small Server GUI applications (C#)
-- Console applications (C# & Python)
+- 🎓 Self-taught
+- 🐍 Started with Python
+- ⌨️ Write in C# (.Net)
+- 🖥️ Focused on desktop and server applications
+- 🤔 Interested in backend and db management 
 
 <!---
 TwwcTech/TwwcTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
