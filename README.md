@@ -1,5 +1,4 @@
 - 🎓 Self-taught
-- 🐍 Started with Python
 - ⌨️ Write in C# (.Net)
 - 🖥️ Focused on building fullstack desktop applications
 - 🤔 Interested in server and backend web development 
