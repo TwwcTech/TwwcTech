@@ -1,4 +1,4 @@
-- 🎓 Self-taught
+- 🎓 Self-taught and still learning
 - ⌨️ Write in C# (.Net)
 - 🖥️ Focused on building desktop applications
 
