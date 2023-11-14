@@ -1,6 +1,6 @@
 - 🎓 Self-taught; always learning
 - ⌨️ Write in C#
-- 🖥️ Focused on full-stack application and backend web development
+- 🖥️ Focused on full-stack dezktop applications and backend web development
 
 <!---
 TwwcTech/TwwcTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
