@@ -4,7 +4,7 @@ I'm also open to collaborating with other developers on interesting and challeng
 
 - 🎓 Self-taught; always learning
 - ⌨️ Write in C#
-- 🖥️ Fullstack developer specializing in Desktop applications
+- 🖥️ Fullstack developer specializing in desktop applications
 
 <!---
 TwwcTech/TwwcTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
