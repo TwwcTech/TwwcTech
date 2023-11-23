@@ -2,7 +2,7 @@
 
 🎓 I'm always learning and improving my skills. The beauty of being self-taught is the freedom to explore and dive deep into topics that fascinate me. I believe in the power of continuous learning and the growth that comes with it.
 
-💻 With C#, I've been able to create robust and efficient desktop applications. The transition from Python to C# has been a rewarding journey, and I'm excited about the projects and opportunities that lie ahead.
+💻 With C#, I've been able to create efficient desktop applications. The transition from Python to C# has been a rewarding journey, and I'm excited about the projects and opportunities that lie ahead.
 
 🌱 I'm open to collaborating on projects and learning from other developers. Feel free to reach out if you're interested in working together or if you have any questions. Happy coding!
 
