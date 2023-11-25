@@ -4,8 +4,6 @@
 
 💻 With C#, I've been able to create efficient desktop applications. The transition from Python to C# has been a rewarding journey, and I'm excited about the projects and opportunities that lie ahead.
 
-🌱 I'm open to collaborating on projects and learning from other developers. Feel free to reach out if you're interested in working together or if you have any questions. Happy coding!
-
 <!---
 TwwcTech/TwwcTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
