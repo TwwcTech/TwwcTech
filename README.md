@@ -1,4 +1,4 @@
-👋 Hi there, I'm a self-taught developer specializing in desktop applications using C#.
+👋 Hi there, I'm a developer specializing in desktop applications using C#.
 
 🎓 I'm always learning and improving my skills.
 
