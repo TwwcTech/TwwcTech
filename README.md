@@ -1,4 +1,4 @@
-Just a hobbyist developer. 
+Always learning
   - Python
   - C#
   - Go
