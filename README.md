@@ -17,11 +17,15 @@ Whether it's an educational tool, a system utility, or a small web app, my goal 
 
 ## Projects
 
-### 🔥 Firewall Mentor (firewallmentor.com)
+### 🔥 Firewall Mentor
 An educational application focused on helping users understand firewalls and security concepts.
 
-### 📡 PCAPly (pcaply.com)
+🌐 [Visit Firewall Mentor](https://firewallmentor.com)
+
+### 📡 PCAPly
 A networking and packet analysis learning platform.
+
+🌐 [Visit PCAPly](https://pcaply.com)
 
 ### 🧹 Purge Temp
 A simple tool designed to help everyday users remove temporary files and reclaim storage space.
