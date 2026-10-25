@@ -48,7 +48,7 @@ I don't build software because I have all the answers.
 I build software because every project teaches me something new, and if it can help someone else along the way, even better.
 
 ---
-Building things for fun. Sharing what I learn. Giving back where I can.
+Building things for fun. Giving back where I can.
 
 <!---
 TwwcTech/TwwcTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
