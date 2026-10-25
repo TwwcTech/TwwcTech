@@ -27,9 +27,6 @@ A networking and packet analysis learning platform.
 
 🌐 [Visit pcaply](https://pcaply.com)
 
-### 🧹 Purge Temp
-A simple tool designed to help everyday users remove temporary files and reclaim storage space.
-
 ## Technologies I Enjoy
 
 - Go
