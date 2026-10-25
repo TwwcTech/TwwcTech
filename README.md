@@ -22,10 +22,10 @@ An educational application focused on helping users understand firewalls and sec
 
 🌐 [Visit Firewall Mentor](https://firewallmentor.com)
 
-### 📡 PCAPly
+### 📡 pcaply
 A networking and packet analysis learning platform.
 
-🌐 [Visit PCAPly](https://pcaply.com)
+🌐 [Visit pcaply](https://pcaply.com)
 
 ### 🧹 Purge Temp
 A simple tool designed to help everyday users remove temporary files and reclaim storage space.
