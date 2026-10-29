@@ -11,7 +11,7 @@ What begins as a learning project often grows into something useful that others 
 
 I learned much of what I know from communities, documentation, open-source projects, and free resources. Basically, people who were willing to share their knowledge.
 
-Building software and educational tools is my way of continuing that cycle.
+Building software is my way of continuing that cycle.
 
 Whether it's an educational tool, a system utility, a utility app, or a small web application, my goal is simple: create things that help people learn, solve problems, or save time.
 
