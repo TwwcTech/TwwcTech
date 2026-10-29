@@ -1,19 +1,19 @@
-I'm a hobbyist developer who enjoys building software, learning new technologies, and creating tools that make life a little easier.
+I'm a developer, homelab enthusiast, and lifelong learner who enjoys building software and creating tools that make life a little easier.
 
 Most of my projects start for one of two reasons:
 
 - I want to learn something new.
 - I find myself thinking, "there has to be an easier way to do this."
+  
+What begins as a learning project often grows into something useful that others can learn from or use themselves.
 
-What begins as a learning project often grows into something useful that I can share with others.
-
-## Why I Build
+## why I build
 
 I learned much of what I know from communities, documentation, open-source projects, and free resources. Basically, people who were willing to share their knowledge.
 
-Building software is my way of continuing that cycle.
+Building software and educational tools is my way of continuing that cycle.
 
-Whether it's an educational tool, a system utility, or a small web app, my goal is simple: create things that help people learn, solve problems, or save time.
+Whether it's an educational tool, a system utility, a utility app, or a small web application, my goal is simple: create things that help people learn, solve problems, or save time.
 
 ## Projects
 
